@@ -1,0 +1,146 @@
+body {
+      background-color: #fffeee;
+      color:  #3c2f2f;
+      font-family: 'Roboto';
+      margin: 0 auto;
+      font-size: 1.2rem;
+    }
+    
+    h1 {
+      margin: 0;
+      width: 6rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      border-right: 4px solid #bbb888;
+      border-bottom: 4px solid #bbb888;
+      border-radius: 0 0 10px 0;
+      background-color: #666;
+      color: #eee;
+      font-size: 1.6rem;
+      line-height: 2rem;
+      font-weight: 400;
+      font-family: 'Roboto';
+    }
+    
+    h1 a {
+      text-decoration: none;
+      color: #fff;
+    }
+    
+    .credit {
+      font-size: 0.8rem;
+      margin-top: 0.5rem;
+      margin-left: 1rem;
+    }
+    
+    #main-menu {
+      display: flex;
+      width: 90%;
+      margin: 0 auto;
+      margin-top: 1rem;
+    }
+    
+    #urraca-container {
+      background-color: rgb(255, 172, 94);
+      flex: 0 0 20vw;
+      height: 25vh;
+      border-radius: 0 10px 10px 0;
+      border: 2px solid white;
+      border-left: 0px;
+      padding-right: 2vw;
+    }
+    
+    #urraca-vector {
+      height: 20vh;
+    }
+    
+    #interactive-projects {
+      width: 50%;
+      text-align: center;
+    }
+    
+    .project-header {
+      font-family: 'Roboto';
+      margin: 1rem 4rem 2rem 4rem;
+      font-size: 2rem;
+      border-bottom: 2px solid #888;
+    }
+    
+    .banner {
+      box-sizing: border-box;
+      display: block;
+      margin: 0 auto;
+      width: 80%;
+      border-radius: 10px;
+      font-size: 2rem;
+      line-height: 3rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    
+    .link {
+      text-decoration: none;
+    }
+    
+    .voldemot  {
+      border: 2px solid black;
+      font-family: 'Roboto', sans-serif;
+      color: #fff;
+      letter-spacing: 1vw;
+      background-color: rgb(102, 0, 161);
+      }
+    
+    .banner-container {
+      position: relative;
+      margin-bottom: 1rem;
+    }
+    
+    .orbitals {
+      border: 2px solid #fff;
+      font-family: 'Roboto', sans-serif;
+      color: #fff;
+      letter-spacing: 1vw;
+      background-image: linear-gradient(to right, orange 5%, black 15%, black 85%, #40acff 95%);
+    }
+        
+    .banner-description {
+      margin-top: 0px;
+      font-size: 1rem;
+    }
+    
+    #static-projects {
+      width: 50%;
+      text-align: center;
+    }
+    
+    .show-and-tell {
+      border: 2px solid #ddd;
+      font-family: 'Rubik', sans-serif;
+      font-weight: bold;
+      color: #ddd;
+      letter-spacing: 1px;
+      background-color: #111;
+    }
+    
+    .show-and-tell > a {
+    
+      color: white;
+      text-decoration: none
+    }
+    
+    h2 {
+      font-weight: 400;
+    }
+    
+    #bottom {
+      border-top: 2px solid #888;
+      width: 90%;
+      margin: 0 auto;
+    }
+    
+    #bottom-copy {
+      padding-top: 1rem;
+      margin: 0 auto;
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
