@@ -144,3 +144,35 @@ body {
       font-weight: 600;
       letter-spacing: 1px;
     }
+
+    @media only screen and (max-width: 800px) {
+
+      h1 {
+        margin: 0;
+      }
+
+      .project-header {
+      font-size: 1.2rem;
+      margin: 1rem 2rem 1rem 2rem;
+    }
+      
+      .banner {
+      font-size: 1rem;
+       line-height: 2rem;
+    }
+      
+      .banner-description {
+      font-size: 0.8rem;
+    }
+
+    h2 {
+      margin-top: 0;
+      font-size: 1.6rem;
+    }
+
+    #bottom-copy {
+      font-size: 1rem;
+      font-weight: 400;
+    }
+
+  }    
